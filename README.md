@@ -32,4 +32,4 @@ Este proyecto utiliza estas bibliotecas: Styled-Components para estilos, Tailwin
 
 
 
-Cantutila Ariel
+<h2>Cantutila Ariel</h2>
